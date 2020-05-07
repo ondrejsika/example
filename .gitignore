@@ -1,2 +1,6 @@
 a
 foo/b
+*.foo
+!example.foo
+builds/**
+!builds/.keep
